@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
+
 import Header from "./components/Header/header";
 import Menu from "./components/Menu/menu";
 import Nav from "./components/Nav/nav";
@@ -31,7 +31,7 @@ class App extends Component {
                 <About />
                 <Project />
                 <Contact />
-                <Footer />
+               
             </React.Fragment>
         );
     } 
