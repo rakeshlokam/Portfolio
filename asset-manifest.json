@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.34df6eb7.chunk.css",
+    "main.js": "/Portfolio/static/js/main.57fa0d2e.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.57fa0d2e.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.1df2450b.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.1df2450b.js.map",
+    "static/js/2.36a60722.chunk.js": "/Portfolio/static/js/2.36a60722.chunk.js",
+    "static/js/2.36a60722.chunk.js.map": "/Portfolio/static/js/2.36a60722.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.34df6eb7.chunk.css.map": "/Portfolio/static/css/main.34df6eb7.chunk.css.map",
+    "static/js/2.36a60722.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.36a60722.chunk.js.LICENSE.txt",
+    "static/media/AnonMsgBoard.8c297389.jpg": "/Portfolio/static/media/AnonMsgBoard.8c297389.jpg",
+    "static/media/BarChart.43650a94.jpg": "/Portfolio/static/media/BarChart.43650a94.jpg",
+    "static/media/Calculator.7a45271e.jpg": "/Portfolio/static/media/Calculator.7a45271e.jpg",
+    "static/media/ChoroplethMap.a80cd957.jpg": "/Portfolio/static/media/ChoroplethMap.a80cd957.jpg",
+    "static/media/Cortala.71787179.jpg": "/Portfolio/static/media/Cortala.71787179.jpg",
+    "static/media/Documentify.98f905c5.jpg": "/Portfolio/static/media/Documentify.98f905c5.jpg",
+    "static/media/ExerciseTracker.90ad0fcd.jpg": "/Portfolio/static/media/ExerciseTracker.90ad0fcd.jpg",
+    "static/media/IssueTracker.1e43bb07.jpg": "/Portfolio/static/media/IssueTracker.1e43bb07.jpg",
+    "static/media/LandingPage.7b44afb9.jpg": "/Portfolio/static/media/LandingPage.7b44afb9.jpg",
+    "static/media/MetricImperialConverter.2e6941bb.jpg": "/Portfolio/static/media/MetricImperialConverter.2e6941bb.jpg",
+    "static/media/header.css": "/Portfolio/static/media/Silhouette.0ca4ee6d.svg",
+    "static/media/PersonalLibrary.140fee0d.jpg": "/Portfolio/static/media/PersonalLibrary.140fee0d.jpg",
+    "static/media/QuotingMachine.6453db6f.jpg": "/Portfolio/static/media/QuotingMachine.6453db6f.jpg",
+    "static/media/menu.css": "/Portfolio/static/media/Trees.588e4000.svg",
+    "static/media/StockPriceChecker.9c243816.jpg": "/Portfolio/static/media/StockPriceChecker.9c243816.jpg",
+    "static/media/SurveyForm.7b38839c.jpg": "/Portfolio/static/media/SurveyForm.7b38839c.jpg",
+    "static/media/TicTacToe.3f63cc5e.jpg": "/Portfolio/static/media/TicTacToe.3f63cc5e.jpg",
+    "static/media/TomateTimer.8e0211a8.jpg": "/Portfolio/static/media/TomateTimer.8e0211a8.jpg",
+    "static/media/TreemapDiagram.de49d837.jpg": "/Portfolio/static/media/TreemapDiagram.de49d837.jpg",
+    "static/media/Tribute.1a3b3954.jpg": "/Portfolio/static/media/Tribute.1a3b3954.jpg",
+    "static/media/Twitch.4ba0d5e2.jpg": "/Portfolio/static/media/Twitch.4ba0d5e2.jpg",
+    "static/media/WeatherApp.d904a4e3.jpg": "/Portfolio/static/media/WeatherApp.d904a4e3.jpg",
+    "static/media/Contact.css": "/Portfolio/static/media/envelope.598becf0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1df2450b.js",
+    "static/js/2.36a60722.chunk.js",
+    "static/css/main.34df6eb7.chunk.css",
+    "static/js/main.57fa0d2e.chunk.js"
+  ]
+}
